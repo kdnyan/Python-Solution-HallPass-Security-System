@@ -44,3 +44,8 @@ for student, minutes in time_out_dict.items():
     else:
         print(f"{student}: EXTREME time out. Further conversation needed.")
 
+#Hey Mr Evins, this is all of your code you sent me by the way. 
+# I'm wondering what elif does and what f" does.
+# I'm also wondering how you got the simply used student and minute like in line 33,35,36, 
+# there you used if minutes < 5:, how does the code able to identify what minute and student is when we never set "Student" or "Minutes"
+# to anything
